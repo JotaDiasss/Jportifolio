@@ -5,21 +5,29 @@ Projeto pessoal estático para apresentar minhas habilidades e contatos. Este re
 ## Estrutura de arquivos
 
 - `index.html` - página principal do portfólio
+- `certifications.html` - página de certificados
 - `style.css` - estilos da página
-- `script.js` - scripts para interações e preenchimento dinâmico de textos
+- `script.js` - script para interações e preenchimento dinâmico de títulos
+- `certifications.js` - script para interação e preenchimento dinâmico do título da página de certificados
 - `assets/` - ativos como imagens (por exemplo `profile.jpg`)
 - `README.md` - este arquivo
 
 ## Detalhes dos arquivos
 
 - `index.html`
-	- Página única com a estrutura visual do portfólio.
+	- Página com a estrutura visual do portfólio.
+
+- `certifications.html`
+  	- Pagina com todos os meus certificados
 
 - `style.css`
 	- Estilos principais: barra lateral fixa, foto central, ícones de tecnologias e seção "Quem sou eu".
 
 - `script.js`
 	- Efeito de digitação para os elementos `#name-title` e `#dev-title`.
+
+- `certifications.js`
+  	- Efeito de digitação para o elemento `#certification-title`
 
 ## Como visualizar localmente
 
